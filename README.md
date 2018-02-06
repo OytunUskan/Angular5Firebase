@@ -32,3 +32,4 @@ npm install -g @angular/cli<br/>
 npm install -g typescript<br/>
 
 ## Screen Shots
+![installation](https://user-images.githubusercontent.com/19308921/35887475-71ed9674-0ba5-11e8-9947-cb1c8236b667.JPG)
