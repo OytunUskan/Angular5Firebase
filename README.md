@@ -28,5 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Before start
 install node.js<br/>
-npm install -g @angular/cli
-npm install -g typescript
+npm install -g @angular/cli<br/>
+npm install -g typescript<br/>
+
+## Screen Shots
