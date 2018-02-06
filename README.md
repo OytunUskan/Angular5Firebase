@@ -32,4 +32,8 @@ npm install -g @angular/cli<br/>
 npm install -g typescript<br/>
 
 ## Screen Shots
-![installation](https://user-images.githubusercontent.com/19308921/35887475-71ed9674-0ba5-11e8-9947-cb1c8236b667.JPG)
+
+![landingpage](https://user-images.githubusercontent.com/19308921/35887521-939f3872-0ba5-11e8-9aff-5c94782dcdc2.JPG)
+![upload](https://user-images.githubusercontent.com/19308921/35887529-9b6f030c-0ba5-11e8-9b6f-087fbbe39738.JPG)
+![detailpage](https://user-images.githubusercontent.com/19308921/35887532-9f76a658-0ba5-11e8-9b4d-0009beb17675.JPG)
+![firebase](https://user-images.githubusercontent.com/19308921/35887538-a33e2f18-0ba5-11e8-9cc1-3bd6cfbfdcf3.JPG)
